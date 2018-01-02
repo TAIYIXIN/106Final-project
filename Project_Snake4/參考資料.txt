@@ -1,0 +1,9 @@
+http://www.winprog.org/tutorial/
+http://forums.codeguru.com/showthread.php?479703-Creating-a-label-(WinAPI)
+http://www.cplusplus.com/forum/windows/39581/
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms646268(v=vs.85).aspx#processing_keystrokes
+https://msdn.microsoft.com/zh-tw/library/72szh9c7.aspx
+https://msdn.microsoft.com/zh-tw/library/windows/desktop/dd183370(v=vs.85).aspx
+https://stackoverflow.com/questions/12872587/how-can-i-get-wndclass-to-have-a-bitmap-image-as-a-background
+https://msdn.microsoft.com/zh-tw/library/windows/desktop/ms644906(v=vs.85).aspx
+https://msdn.microsoft.com/zh-tw/library/windows/desktop/ms646291(v=vs.85).aspx
